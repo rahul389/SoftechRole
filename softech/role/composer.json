@@ -1,0 +1,12 @@
+{
+    "name": "softech/role",
+    "description": "This is to create custom package for role management.",
+    "authors": [
+        {
+            "name": "Rahul Sharma",
+            "email": "rahul.sharma@surmountsoft.in"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
