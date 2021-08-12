@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
       "psr-4": {
-        "Softech\\Role\\": "softech/role/src/"
+        "Softech\\Role\\": "src/"
       }
     }
 }
